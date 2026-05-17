@@ -4,4 +4,8 @@ solutions/
 output/*.db*
 *.pyc
 __pycache__/
+.env.env
+
+# Local secrets
 .env
+*.env
